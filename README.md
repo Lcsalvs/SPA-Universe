@@ -4,14 +4,13 @@
 
 Criar uma página usando os conceitos aprendidos no Stage 06 do Explorer:
 
-<aside>
+
 - Conceitos de SPA;
 - Mapeamento de rotas;
 - Assíncrono e promises;
 - Orientação a objetos;
 - Classes e muito mais.
 
-</aside>
 
 A ideia agora é criar o **SPA Universe**! 🚀
 
@@ -19,4 +18,4 @@ Aqui está o [**link**](https://www.figma.com/file/m8zp3mtxvwyTGQs69nIFM8/%5BDes
 
 ## Preview
 
-![SPAUniverse](./assets/spa-universe.mp4)
+![SPAUniverse](./assets/spa-universe.gif)
